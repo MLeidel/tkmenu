@@ -17,3 +17,24 @@ For clarity prefix each command with its variable name.
 e.g. "`mn_file`" and "`mn_file_save`"  
 
 
+## To Use ##
+- modify the template spreadsheet and save under different name.
+- generate the code:  
+
+`python3 tkmenu.py my_menus.xlsx`  
+
+_OUTPUT IS TO CONSOLE_
+
+copy the output from the console into the  
+`tkauto_tpl.py` template.  
+
+- save `tkauto_tpl.py` as something else
+- test it
+- if you're using with `tkauto.py` generated program  
+    finish generating with `tkauto.py` then use  
+    `tkmenu.py` if you also want menus.
+
+    
+
+
+
