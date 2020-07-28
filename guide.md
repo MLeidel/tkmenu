@@ -31,7 +31,7 @@ copy the output from the console into the
 - save `tkauto_tpl.py` as something else
 - test it
 - if you're using with `tkauto.py` generated program  
-    finish generating with `tkauto.py` then use  
+    first finish generating with `tkauto.py`, then use  
     `tkmenu.py` if you also want menus.
 
     
